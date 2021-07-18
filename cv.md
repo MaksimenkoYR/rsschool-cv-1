@@ -20,10 +20,10 @@ __Skills:__
 
 __English Proficiency:__ pre-intermediate (read technical literature, conduct business correspondence, understand content of audio and video materials according to the level).
 
-__Education:__\
+__Education:__
 
 __09/2020 - 04/2021__ – __RSSchool__\
-Course: JavaScript Development\
+Course: JavaScript Development
 
 __02/2020 – 06/2020__ – __IT Academy__\
 Course: Web Application Development With JavaScript\
@@ -44,7 +44,7 @@ Specialization: Economist
 ### Work experience
 
 __09/2020 - 04/2021__ – __RSSchool__\
-__Role__: Junior Front-end Developer\
+__Role__: Junior Front-end Developer
 
 __02/2020 – 06/2020__ – __IT Academy__\
 __Project name:__ to-do list app\
@@ -57,7 +57,7 @@ __Role__: Junior Front-end Developer.\
 __Tools & Technologies:__ ES5, HTML5, CSS(SCSS), JavaScript, Fancybox, Swiper, Avocode\
 
 __09/2013 – 12/2019__ – __Manager, Wholesale company__\
-__Main responsibilities:__\
+__Main responsibilities:__
 * general management of the company
 * transactions and deals support
 * interaction with suppliers in Russia, Kazakhstan, Kyrgyzstan, Iran, Ukraine
